@@ -1,0 +1,17 @@
+Test 1: Simple Addition and Subtraction
+10 + 20 - 5
+
+Test 2: Multiplication and Division (Higher Precedence)
+5 * 6 / 2
+
+Test 3: Mixed Precedence (Multiplication before Addition)
+10 + 5 * 2
+
+Test 4: Right-Associativity (Exponentiation)
+2 ** 3 ** 2
+
+Test 5: Parentheses (Overriding Precedence)
+(10 + 5) * 2
+
+Test 6: Unary Operators (Prefix Increment/Decrement)
+++10 * (20 - --5)
